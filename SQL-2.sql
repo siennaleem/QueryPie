@@ -1,1 +1,1 @@
-SELECT * from proxies;
+시엔날림
